@@ -1,5 +1,6 @@
 # Face-detection
-Face Detection project is about detecting Human faces with a blue square box using python
-<br>
-Author-Sharanya
-![Human Face Detection](Face detection.png)
+Developed a real-time face detection application using Python and OpenCV. 
+•    Implemented image processing techniques to detect and highlight human faces from live webcam feeds. 
+•    Collaborated with a team of 4 members to develop, test, and validate the system.
+
+
